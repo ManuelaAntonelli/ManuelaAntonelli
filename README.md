@@ -3,8 +3,8 @@
 
 <div>
 <a href="https://github.com/ManuelaAntonelli">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ManuelaAntonelli&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br&custom_title=Manuela_Antonelli"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelaAntonelli&layout=compact&langs_count=16&theme=radical&custom_title=Linguagens_Usadas"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=ManuelaAntonelli&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br&custom_title=Manuela_Antonelli"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelaAntonelli&layout=compact&langs_count=16&theme=radical&custom_title=Linguagens_Usadas"/>
 </div>
 
 <div style="display: inline_block"><br>
