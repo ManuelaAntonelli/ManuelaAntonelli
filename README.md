@@ -17,9 +17,10 @@
 
 </div>
 
-  <a href = "mailto.manu03antonelli.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manu03antonelli/?next=%2F)
   <a href="linkedin.com/in/manuela-antonelli-a997672ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+  <a href = "mailto.manu03antonelli.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
 </div>
 
 <picture align="center">
